@@ -1,8 +1,13 @@
-Instructions
+Purpose
 ----
+Play around with creating a reveal.js slideshow from a jupyter notebook. I am running Jupyter 4.0.6.
+
+Note that I just grabbed a random jupyter notebook to play with and arbitrarily assigned reveal.js slide elements to various cells. The result is not a nice presentation, but simply a quick exploratory test.
+
+### Instructions
 
 - Download [RISE](https://github.com/damianavila/RISE) (Reveal.js Ipython/Jupyter Slideshow Extension), also known as live_reveal
-- In Terminal navigate to RISE directory and run `python setup.py install`
+- From the command line on your local computer navigate to RISE directory and run `python setup.py install`
     - This will install the RISE nbextension and enable it
 - Start ipython notebook and open up a notebook
 - At top of notebook in _Cell Toolbar_ dropdown menu, select _Slideshow_
