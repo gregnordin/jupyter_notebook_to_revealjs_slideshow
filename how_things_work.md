@@ -1,6 +1,6 @@
 Let's figure out what the different pieces are.
 
-__Directories__
+__Directories__ (from 151214_jupyter_nbextensions_explore.ipynb)
 
 _jupyter_config_dir()_ = /Users/nordin/.jupyter  
 _jupyter_config_path()_ = ['/Users/nordin/.jupyter', '/Users/nordin/anaconda/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter']  
