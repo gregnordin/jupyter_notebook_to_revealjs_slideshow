@@ -16,6 +16,7 @@ Note that I just grabbed a random jupyter notebook to play with and arbitrarily 
 - To run the slideshow live, click the _Enter/Exit Live Reveal Slideshow_ button just to the right of the _Cell Toolbar_ dropdown menu at the top of the notebook
     - Slides that are taller than a page cannot be scrolled. Why??
     - I have not yet tested executing code during a slideshow
+        - UPDATE: yes, this works fine
 - To create a static reveal.js slideshow execute
     - `jupyter nbconvert --to slides <notebook filename>`
         - Creates the reveal.js slideshow html file
